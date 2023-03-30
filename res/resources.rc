@@ -1,0 +1,6 @@
+#ifndef _resource_rc
+#define _resource_rc
+
+MANICON ICON "res/favicon.ico"
+
+#endif // _resource_rc
