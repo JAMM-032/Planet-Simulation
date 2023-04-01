@@ -37,3 +37,4 @@ Makefile
 # Other
 .SDL_devel
 .vscode
+*.zip
